@@ -1,2 +1,2 @@
-# Resilvendo o Primeiro Desafio da DIO 
+# Resolvendo meu primeiro desafio DIO
 Primeiro Desafio Entregue
